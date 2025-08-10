@@ -10,6 +10,7 @@ npm install -g yarn
 
 ## Run Wallet App
 ```bash
+yarn install
 npm start
 ```
 

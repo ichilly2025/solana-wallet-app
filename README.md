@@ -1,5 +1,5 @@
 # solana-wallet-app
-Solana Wallet Balance Checker & USDT Minter
+Solana Wallet Balance Checker & USDT Minter.
 
 ## Installations
 ```bash
